@@ -1,3 +1,5 @@
+![Banner](./Blue Modern Corporate Staff Profile LinkedIn Banner.png)
+
 # GPT-based Resume Summarizer (FastAPI + OpenAI)
 
 This is a sample project using GPT APIs to extract structured information from resumes using prompt engineering.
