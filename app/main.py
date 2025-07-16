@@ -17,6 +17,7 @@ HF_URL = f"https://api-inference.huggingface.co/models/{MODEL}"
 @app.post("/summarize/")
 async def summarize_resume(req: ResumeRequest):
     text = req.resume
+    text = " ".join(text.splitlines())
 
     resp = requests.post(
         HF_URL,
