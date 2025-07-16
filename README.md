@@ -1,4 +1,5 @@
-![Banner](./Blue Modern Corporate Staff Profile LinkedIn Banner.png)
+- ![Banner](./Blue Modern Corporate Staff Profile LinkedIn Banner.png)
++ ![Banner](./resume-banner.png)
 
 # GPT-based Resume Summarizer (FastAPI + OpenAI)
 
